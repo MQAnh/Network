@@ -70,8 +70,11 @@ __Hạn chế của IPv4__
 -  Cấu trúc định tuyến không hiệu quả
 -  Địa chỉ IPv4 không có cách thức bảo mật nào đi kèm, không cung cấp phương tiện hỗ trợ mã hóa dữ liệu.
 
+
 Cấu trúc IP Header Version 4
+
 ![](https://raw.githubusercontent.com/MQAnh/Network/main/images/img/ipv4%20header.PNG)
+
 __IPv6__
 
 _IPv6 (Internet Protocol version 6) là giao thức mạng mới nhất hiện nay có chức năng truyền dữ liệu trong các gói từ một nguồn đến đích qua các mạng khác nhau. IPv6 được đánh giá là một phiên bản cải tiến của IPv4. Nó hỗ trợ một số lượng node lớn hơn đáng kể so với IPv4._
