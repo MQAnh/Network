@@ -251,7 +251,7 @@ _Là tầng gần nhất với người sử dụng, được dùng để trao �
 11.HTTP: là giao thức tập hợp các quy tắc để trao đổi văn bản, hình ảnh, âm thanh, video và các tệp phương tiện khác World wide web. Số cổng cho HTTP là 80, 8080.
 
 
-## 1. Mô hình Client-Sever
+## Mô hình Client-Sever
 Mô hình client-server là một mô hình nổi tiếng trong mạng máy tính, được áp dụng rất rộng rãi và là mô hình của mọi trang web hiện có. 
 
 ![](https://raw.githubusercontent.com/MQAnh/Network/main/imgs/mo-hinh-client-sever.png)
@@ -269,7 +269,7 @@ Không phụ thuộc vào cùng một nền tảng, chỉ cần chung một đ�
 Chỉ có điều nhược điểm của mô hình này là tính an toàn và bảo mật các thông tin trên mạng. Do phải trao đổi các dữ liệu giữa hai máy ở hai khu vực khác nhau nên dễ dàng xảy ra hiện tượng thông tin trên mạng bị mất bí mật và từ đó vai trò của quản trị mạng trở nên quan trọng lên rất nhiều.
 
 
-## 4. Mô hình peer – to – peer.
+## Mô hình peer – to – peer.
 Mạng ngang hàng (P2P) được tạo khi hai hoặc nhiều PC được kết nối và chia sẻ tài nguyên mà không cần thông qua một máy chủ riêng biệt.
 
 ![](https://congnghe102.com/uploads/102tech/images/p2p_la_gi_mang_ngang_hang_p2p.png)
